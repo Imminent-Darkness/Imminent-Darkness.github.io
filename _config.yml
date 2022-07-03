@@ -1,4 +1,5 @@
 theme: jekyll-theme-hacker  
 title: Imminent-Darkness  
+<button onclick="window.location.href='imminent-darkness.github.io/blog/';">Click</button>  
 description: Security Research, Vulnerability Assessment, Exploit Development, Inconcealable Ambition for Red Team Orchestration!  
 Toss the resume aside for a minute and take a moment to peek under the hoodie.
