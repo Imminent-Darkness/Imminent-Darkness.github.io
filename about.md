@@ -5,7 +5,7 @@ production plants. Recently completed B.S. in Computer Science from Eastern Oreg
 I enjoy researching security vulnerabilities and exploits as well as learning how to develop 
 Proof of Concept models and related tools. I also research android internals and software design.
 
-# Education
+### Education
 * Apprenticeship (Electrician), *Blue Mountain Community College*, 2007-2011
 * Bachelors of Science (Computer Science), *Eastern Oregon University*, 2018-2022
 
