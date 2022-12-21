@@ -2,6 +2,17 @@
 * Apprenticeship (Electrician), *Blue Mountain Community College*, 2007-2011
 * Bachelors of Science (Computer Science), *Eastern Oregon University*, 2018-2022
 
+
+# [Project 1: BCDTB](https://github.com/imminent-darkness/ccxt-bot)
+![alt text](dylan-calluy-JpflvzEl5cg-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@dylancalluy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dylan Calluy</a> on <a href="https://unsplash.com/s/photos/trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+This project automates cryptocurrency derivatives trading on the bybit exchange.
+* **Python libraries used:** ccxt, pandas
+* **Input:** Tweets, News
+* **Output:** Algorithmic Trading of Cryptocurrency Derivatives
+======
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
@@ -11,6 +22,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
+
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
