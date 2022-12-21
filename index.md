@@ -13,4 +13,4 @@ This project generates buy and sell signals using technical analysis and automat
 * **Input:** Historical OHLCV Data
 * **Output:** Automated Cryptocurrency Derivatives Trades 
 
-[About me](about.md) [Design portfolio](https://towardsdatascience.com/how-to-build-a-simple-portfolio-website-for-free-f49327675fd9)
+[About me](about.md) [Education](education.md)
