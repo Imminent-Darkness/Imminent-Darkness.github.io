@@ -1,8 +1,8 @@
 Homepage 
 ========
-----
->  [About me](about.md) [Education](education.md)
----- 
+
+|  [Blog](blog.html)  |  [About me](about.md)  |
+|       :----:        |  :---                  |
 
 ## Projects 
 
