@@ -1,6 +1,8 @@
-# Homepage 
-
-[About me](about.md) [Education](education.md)
+Homepage 
+========
+----
+>  [About me](about.md) [Education](education.md)
+---- 
 
 ## Projects 
 
