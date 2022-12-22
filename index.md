@@ -1,4 +1,4 @@
-## Projects 
+<h1>Projects</h1> 
 
 ### [BCDTB](https://github.com/imminent-darkness/ccxt-bot)
 ![alt text](BCDTB.jpg)
