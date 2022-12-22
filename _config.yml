@@ -2,4 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Imminent-Darkness
-description: I enjoy studying for certifications that I can't afford an exam voucher for.  
+description: I enjoy studying for certifications that I can't afford an exam voucher for. /
+          <a href="index.md">Projects</a>    <a href="about.md">About</a>
