@@ -1,8 +1,3 @@
-Homepage 
-========
-
-|  [Blog](blog.html)  |  [About me](about.md)  |
-
 ## Projects 
 
 ### [BCDTB](https://github.com/imminent-darkness/ccxt-bot)
