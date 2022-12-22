@@ -2,12 +2,11 @@ Homepage
 ========
 
 |  [Blog](blog.html)  |  [About me](about.md)  |
-|       :----:        |  :---                  |
 
 ## Projects 
 
 ### [BCDTB](https://github.com/imminent-darkness/ccxt-bot)
-![alt text](dylan-calluy-JpflvzEl5cg-unsplash.jpg)
+![alt text](BCDTB.jpg)
 
 Photo by <a href="https://unsplash.com/@dylancalluy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dylan Calluy</a> on <a href="https://unsplash.com/s/photos/trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
