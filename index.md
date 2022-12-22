@@ -1,5 +1,5 @@
 <h1>Projects</h1> 
-[About](https://github.com/imminent-darkness/imminent-darkness.github.io/about.md) 
+[About](about.md) 
 
 ### [BCDTB](https://github.com/imminent-darkness/ccxt-bot)
 ![alt text](BCDTB.jpg)
