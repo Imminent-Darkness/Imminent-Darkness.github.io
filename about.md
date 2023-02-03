@@ -1,3 +1,7 @@
+---
+permalink: /about/
+---
+
 <h1>About me!</h1>
 
 I was an industrial electrician for 10 years, wiring up multiple data centers and 
