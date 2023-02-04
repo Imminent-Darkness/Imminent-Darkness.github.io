@@ -1,6 +1,5 @@
+{% include navigation.html %}
 <h1>Projects</h1> 
-[About](about.md) 
-{% include navigation.html %} 
 
 ### [BCDTB](https://github.com/imminent-darkness/BCDTB)
 ![alt text](BCDTB.jpg)
