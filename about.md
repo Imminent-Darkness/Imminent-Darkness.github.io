@@ -3,6 +3,7 @@ permalink: /about/
 ---
 
 <h1>About me!</h1>
+{% include navigation.html %} 
 
 I was an industrial electrician for 10 years, wiring up multiple data centers and 
 production plants. Recently completed B.S. in Computer Science from Eastern Oregon University. 
