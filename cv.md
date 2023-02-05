@@ -1,3 +1,7 @@
+---
+permalink: /cv/
+---
+
 {% include navigation.html %}
 <h1>Projects</h1> 
 
