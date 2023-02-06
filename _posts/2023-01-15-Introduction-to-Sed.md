@@ -1,16 +1,15 @@
 ---
 menutitle:         "Introduction to Sed"
-description:       "Short introduction to Sed."
+description:       "`sed`, short for Stream Editor, is a powerful command-line tool for transforming text. It is a non-interactive 
+                    text editor that is used to perform basic text transformations, such as replacing text, deleting text, or printing 
+                    specific lines of a file. This tool is very useful for text manipulation and is widely used in shell scripts and 
+                    data processing."
 category:          Tutorials
 author:            "Steven Wilkins"
 tags:              Sed Linux Tools Tutorial
 ---
 
 {% include navigation.html %}
-
-# Introduction to Sed 
-
-`sed`, short for Stream Editor, is a powerful command-line tool for transforming text. It is a non-interactive text editor that is used to perform basic text transformations, such as replacing text, deleting text, or printing specific lines of a file. This tool is very useful for text manipulation and is widely used in shell scripts and data processing.
 
 ## Basic Usage
 
