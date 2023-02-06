@@ -3,6 +3,51 @@ permalink: /cv/
 ---
 
 {% include navigation.html %}
+
+<h1>Education</h1>
+
+### Eastern Oregon University
+**B.S. Computer Science, Computer Software Engineering**
+* Sep 2018 - Apr 2022
+
+#### Honors & Awards
+**ASTEO Scholar** - Advancing Science and Technology in Eastern Oregon
+* 2019/2020
+* 2020/2021
+
+**Dean's List**
+* 2019 - Spring
+* 2019 - Winter
+* 2019 - Fall
+* 2022 - Winter
+
+<h1>Experience</h1>
+
+### Computer Technician
+#### The Cell Fix · The Cell Fix
+#### May 2020 - Oct 2020
+#### Oregon, United States
+* Replace screens, batteries, and other components on mobile phones, tablets, and laptops.
+* Recovered data from broken devices.
+* Used Cellebrite, 3uTools, iTunes, Odin, Android Debug Bridge and other tools to backup, recover, and transfer data.
+* Scanned Windows devices for malware, installed antivirus software and configured devices for customers. 
+* Assisted customers with device setup.
+* **Skills:** Cellebrite · Android Support · ADB · Testing · Windows
+
+### Industrial Electrician
+#### International Brotherhood of Electrical Workers (IBEW)
+#### Jul 2007 - Aug 2018
+#### Oregon, United States
+* Consulted with company owners and clients to plan the best strategy to complete the project.
+* Worked with project design documents and requirements.
+* Collaborated with other trades to keep the project running efficiently and avoid future problems.
+* Managed a team of varying skill levels, mentoring inexperienced members and keeping them on task. 
+* Worked alongside the team to complete the project.
+* Performed troubleshooting of failing equipment to determine how to fix it.
+* Kept records to track the progress of the job.
+* Stayed up to date on latest technology and National Electrical Code changes.
+* **Skills:** Critical Thinking · Technical Documentation · Collaborative Leadership · Customer Service
+
 <h1>Projects</h1> 
 
 ### [BCDTB](https://github.com/imminent-darkness/BCDTB)
