@@ -1,5 +1,6 @@
 ---
 menutitle:         "Introduction to Sed"
+description:       "Short introduction to Sed."
 category:          Tutorials
 author:            "Steven Wilkins"
 tags:              Sed Linux Tools Tutorial
