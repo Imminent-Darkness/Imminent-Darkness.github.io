@@ -46,7 +46,7 @@ permalink: /cv/
 
 <h1>Projects</h1> 
 
-### [BCDTB](https://github.com/imminent-darkness/BCDTB)
+### [BCDTB](https://imminent-darkness.github.io/BCDTB)
 ![alt text](BCDTB.jpg)
 
 Photo by <a href="https://unsplash.com/@dylancalluy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dylan Calluy</a> on <a href="https://unsplash.com/s/photos/trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
