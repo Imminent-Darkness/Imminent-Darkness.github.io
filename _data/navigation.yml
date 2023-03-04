@@ -1,7 +1,7 @@
-- name: Home
+- name: Blog
   link: /
-- name: CV
-  link: /cv/
+- name: Projects
+  link: /Projects/
 - name: About
   link: /about/
   
