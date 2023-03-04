@@ -1,5 +1,5 @@
 ---
-permalink: /cv/
+permalink: /projects/
 ---
 
 {% include navigation.html %}
