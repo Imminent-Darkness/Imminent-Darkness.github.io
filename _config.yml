@@ -2,7 +2,12 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Imminent-Darkness
-description: Effective security requires one to reflect on the most terrifying scenario and prepare for someone diabolical enough to execute it.
+description: Welcome to my little corner of the internet! 
+  I'm interested in cybersecurity, cryptocurrency trading, 
+  microcontrollers, and a whole list of other tech related 
+  subjects. The blog is where I talk about it and my projects  
+  are where I be about it. Thanks for stopping by and checking 
+  it out! 
 include: ['_pages']
 markdown: kramdown
 excerpt_separator: "\n\n"
