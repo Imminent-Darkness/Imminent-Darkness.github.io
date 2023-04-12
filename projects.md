@@ -33,7 +33,7 @@ permalink: /projects/
 * **Skills:** Cellebrite · Android Support · ADB · Testing · Windows
 
 ### Industrial Electrician
-**International Brotherhood of Electrical Workers (IBEW) · Jul 2007 - Aug 2018 · Oregon, United States**
+**Hendon Electric · Jul 2011 - Aug 2018 · Oregon, United States**
 * Consulted with company owners and clients to plan the best strategy to complete the project.
 * Worked with project design documents and requirements.
 * Collaborated with other trades to keep the project running efficiently and avoid future problems.
