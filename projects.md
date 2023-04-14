@@ -56,7 +56,7 @@ This project generates buy and sell signals using technical analysis and automat
 * **Input:** Historical OHLCV Data
 * **Output:** Automated Cryptocurrency Derivatives Trades 
 
-### [SimpleLinuxBackupRecoveryCLI](https://github.com/imminent-darkness/SimpleLinuxBackupRecoveryCLI)
+### [SimpleLinuxBackupRecoveryCLI](https://imminent-darkness.github.io/SimpleLinuxBackupRecoveryCLI)
 ![alt text](linuxAdminCLI.jpg)
 
 Photo by <a href="https://unsplash.com/@hidd3n?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Horvat</a> on <a href="https://unsplash.com/photos/Pyjp2zmxuLk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
